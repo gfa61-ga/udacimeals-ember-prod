@@ -1,0 +1,1 @@
+.items-container,.menu-item{justify-items:center;display:grid}.items-container{grid-template-columns:1fr 1fr 1fr;grid-gap:10px}.order-tracker{display:grid;grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;grid-gap:10px;justify-items:center}.remove-item{color:red}
