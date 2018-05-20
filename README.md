@@ -25,5 +25,4 @@ assets/udaci-meals-ffe32956b505d2b4ad503eecdfd5a9b4.js
 - manually renamed images in dist/img folder to their original names
 - and finally made a commit and pushed the project to github
 
-
 [maybe this link can solve the Links issue](https://stackoverflow.com/questions/24404080/how-do-i-deploy-ember-js-app-developed-with-ember-cli-on-github-pages)
